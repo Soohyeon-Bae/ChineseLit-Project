@@ -45,7 +45,7 @@ SNS가 친숙한 MZ세대들은 본인의 TMI(too much information)를 self sell
 
 유형 테스트 바탕의 또다른 파생 콘텐츠 
 
-![image](https://user-images.githubusercontent.com/94159857/144574073-bd952a8f-acbe-410c-b959-ae02fead4a46.png)
+
 
 - - -
 
