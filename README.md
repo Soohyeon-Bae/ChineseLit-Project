@@ -2,6 +2,8 @@
 
 2020학년도 2학기 '통속문학으로 중국읽기' 기획 과제
 
+- - -
+
 ## 개발일지
 
 ### 개요발표(20.11.22)
@@ -23,7 +25,7 @@ SNS가 친숙한 MZ세대들은 본인의 TMI(too much information)를 self sell
 유사 콘텐츠가 많고, 신뢰성을 줄 수 없는 가벼운 콘텐츠로써 흥미 그 이상을 추구할 수 없음
 
 
-- - -
+---
 
 
 ### 최종발표(20.12.17)
@@ -47,7 +49,7 @@ SNS가 친숙한 MZ세대들은 본인의 TMI(too much information)를 self sell
 
 ![image](https://user-images.githubusercontent.com/94159857/144574073-bd952a8f-acbe-410c-b959-ae02fead4a46.png)
 
-
+- - -
 
 ## Reference
 https://github.com/dev-dain/10-things-test / Dain Kim (김다인)
