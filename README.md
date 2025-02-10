@@ -43,6 +43,7 @@ SNS가 친숙한 MZ세대들은 본인의 TMI(too much information)를 self sell
 
 04. 테스트 및 평가
 
+QR코드 생성 후 공유 
 유형 테스트 바탕의 또다른 파생 콘텐츠 
 
 
